@@ -1,2 +1,2 @@
-# StingAndGhostCaptain
+# Sting-EzScript
 LUL
